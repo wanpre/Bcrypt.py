@@ -1,4 +1,6 @@
 #Bcrypt爆破器
+
+
 Bcrypt password cracker
 -h==help
 -p  指定待破解文件,1行填加密文本,2行填盐值,没有盐
