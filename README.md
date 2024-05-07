@@ -1,4 +1,4 @@
-#Bcrypt爆破器
+# Bcrypt爆破器
 
 
 Bcrypt password cracker
