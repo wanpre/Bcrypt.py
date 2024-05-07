@@ -8,5 +8,5 @@ Bcrypt password cracker
 使用实例
 
 ``
-python3 Bcrypt.py -ppp a.txt -d ../../rockyou.txt
+python3 Bcrypt.py -p a.txt -d ../../rockyou.txt
 ``
